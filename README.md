@@ -9,7 +9,7 @@ If you do not have Python 3 (pip3) installed and you have a Linux OS, execute th
 
 If you have Python 3 (pip3) installed and a Linux OS, execute the following in a terminal:
 
-    pip3 install numpy pandas sklearn scipy
+    pip3 install numpy pandas sklearn scipy seaborn matplotlib
 
 
 Execute the code by running the corresponding line:
