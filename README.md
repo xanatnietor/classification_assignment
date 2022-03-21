@@ -12,7 +12,7 @@ If you have Python 3 (pip3) installed and a Linux OS, execute the following in a
     pip3 install numpy pandas sklearn scipy
 
 
-Execute the code by running the following command:
+Execute the code by running the corresponding line:
 
 Logistic Regression prediction
 
