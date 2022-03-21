@@ -31,3 +31,5 @@ If you do not have a Linux OS, install the following packages in your OS:
 - pandas
 - numpy
 - scipy
+- seaborn
+- matplotlib
