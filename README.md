@@ -1,7 +1,7 @@
 # classification_assignment
 Classification assignment
 
-Please use the dataset given in this repository given that is already clean.
+Please use the dataset given in this repository (bank_personal_loan.csv) because it is already clean.
 
 If you do not have Python 3 (pip3) installed and you have a Linux OS, execute the following:
 brew install python3
