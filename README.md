@@ -10,6 +10,12 @@ pip3 install pandas
 pip3 install sklearn
 pip3 install scipy
 
+Execute the code by running the following command:
+# Logistic Regression prediction
+pip3 install summative_classif_logistic.py
+# Random Forest prediction
+python3 summative_classif_randomforest.py
+
 If you do not have a Linux OS, install the following packages in your OS:
 - sklearn
 - pandas
