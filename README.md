@@ -23,4 +23,4 @@ If you do not have a Linux OS, install the following packages in your OS:
 - sklearn
 - pandas
 - numpy
-- scypi
+- scipy
