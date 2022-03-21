@@ -19,6 +19,9 @@ Random Forest prediction
 
     python3 summative_classif_randomforest.py
 
+Plots
+    python3 summative_classif.py
+
 If you do not have a Linux OS, install the following packages in your OS:
 - sklearn
 - pandas
